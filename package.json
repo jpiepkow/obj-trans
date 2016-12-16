@@ -1,5 +1,5 @@
 {
-  "name": "object-transform",
+  "name": "obj-trans",
   "version": "1.0.0",
   "description": "module that will run a function/ functions recursively over an object to transform all of the values at any nest level",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpiepkow/object-transform.git"
+    "url": "https://github.com/jpiepkow/obj-trans.git"
   },
   "keywords": [
     "object",

@@ -1,14 +1,14 @@
-object-transform
+obj-trans
 =======
 Description: module that will run a function/ functions recursively over an object to transform all of the values at any nest level
 
 Getting Started:
 
-	npm install object-transform --save
+	npm install obj-trans --save
 	
 example:
 
-	objTrans = require('object-transform');
+	objTrans = require('obj-trans');
 	
 	var testObj = {one:1,two:2,nestOne:{one:1,two:2}};
 	var testFunction = function(x){return x*2);
