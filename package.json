@@ -1,0 +1,24 @@
+{
+  "name": "object-transform",
+  "version": "1.0.0",
+  "description": "module that will run a function/ functions recursively over an object to transform all of the values at any nest level",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpiepkow/object-transform.git"
+  },
+  "keywords": [
+    "object",
+    "transform",
+    "recursive"
+  ],
+  "author": "jordan piepkow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpiepkow/object-transform/issues"
+  },
+  "homepage": "https://github.com/jpiepkow/object-transform#readme"
+}
